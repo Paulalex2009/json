@@ -1,23 +1,25 @@
 {
-	"Name": "30 Pieces Of Fake Garlic",
-	"Price": "$10.99",
-	"Description": "These are 30 Pieces of fake garlic which is used for decoration purposes",
-	"Features": "These pieces are white and 30 in number",
+
+	"companyName": "Weird Deals";
+	"name": "30 Pieces Of Fake Garlic",
+	"price": "$10.99",
+	"description": "These are 30 Pieces of fake garlic which is used for decoration purposes",
+	"features": "These pieces are white and 30 in number",
 	"image": "fake-garlic.jpg"
 },
 
 {
-	"Name": "A Dextop Refrigerator",
-	"Price": "$38.00",
-	"Description": "Now when you say you need a cold one, you can mean it with one single referigerated beverage at you fingertips",
-	"Features": "One red in colour small USB fridge",
+	"name": "A Dextop Refrigerator",
+	"price": "$38.00",
+	"description": "Now when you say you need a cold one, you can mean it with one single referigerated beverage at you fingertips",
+	"features": "One red in colour small USB fridge",
 	"image": "510g-cwJNBL.jpg"
 },
 
 {
-	"Name": "A Pizza Hat",
-	"Price": "$11.62",
-	"Description": "Finally you can indulge in everyone's life-long desire of wearing pizza at the top of their head",
-	"Features": "Comfortable and looks classy on everyone",
+	"name": "A Pizza Hat",
+	"price": "$11.62",
+	"description": "Finally you can indulge in everyone's life-long desire of wearing pizza at the top of their head",
+	"features": "Comfortable and looks classy on everyone",
 	"image": "5139OFKq8HL.jpg"
 },
